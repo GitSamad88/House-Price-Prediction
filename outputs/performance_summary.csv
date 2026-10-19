@@ -1,0 +1,5 @@
+Metric,Baseline XGBoost,Tuned XGBoost,
+Training R² / Score,0.9971,0.944,
+Test R² Score,0.8591,0.880,
+Test MAE,19200,18201.30,
+Test RMSE,28611.92,26394.03,

@@ -1,0 +1,13 @@
+ipykernel
+jupyter
+matplotlib
+numpy
+pandas
+plotly
+pygwalker
+scikit-learn
+scipy
+seaborn
+data-profiling
+ydata-profiling
+xgboost
